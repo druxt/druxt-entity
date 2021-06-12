@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{424:function(t,n,e){"use strict";e.r(n);var i={mixins:[e(414).a]},s=e(42),r=Object(s.a)(i,(function(){var t=this.$createElement;return(this._self._c||t)("DruxtEntity",this._b({},"DruxtEntity",this.route.props,!1))}),[],!1,null,null,null);n.default=r.exports}}]);
