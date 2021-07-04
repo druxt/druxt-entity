@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{478:function(e,n,t){"use strict";t.r(n);var i={name:"DruxtFieldEntityReferenceRevisionsEntityView",extends:t(428).default},l=t(42),o=Object(l.a)(i,void 0,void 0,!1,null,null,null);n.default=o.exports}}]);
